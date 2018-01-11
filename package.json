@@ -1,0 +1,29 @@
+{
+  "name": "open-git",
+  "version": "1.0.0",
+  "description": "Open the web page of a git repository",
+  "main": "./openg",
+  "bin": {
+    "openg": "./bin/openg"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smalldragonluo/open-git.git"
+  },
+  "author": "smalldragonluo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smalldragonluo/open/issues"
+  },
+  "homepage": "https://github.com/smalldragonluo/open-git#readme",
+  "keywords": [
+    "git"
+  ],
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "~2.9.0"
+  }
+}

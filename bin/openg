@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+var commander = require('commander');
+
+commander
+  .version(require('../package').version, '-v, --version')
+  .option('-c, --cwd [value]', 'directory of static files')
+  .option('-b, --browser [value]', 'the browser to use')
+  .parse(process.argv);
+
+require('../openg')(commander);
