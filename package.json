@@ -1,6 +1,6 @@
 {
   "name": "open-git-page",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Open the web page of a git repository",
   "main": "./openg",
   "bin": {
