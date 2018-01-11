@@ -1,10 +1,10 @@
-open-git
+open-git-page
 =================
 
 **open-git** is used to open the web page of a git repository.
 
-[![npm Package](https://img.shields.io/npm/v/open-git.svg?style=flat-square)](https://www.npmjs.org/package/open-git)
-[![downloads per month](http://img.shields.io/npm/dm/open-git.svg)](https://www.npmjs.org/package/open-git)
+[![npm Package](https://img.shields.io/npm/v/open-git-page.svg?style=flat-square)](https://www.npmjs.org/package/open-git-page)
+[![downloads per month](http://img.shields.io/npm/dm/open-git-page.svg)](https://www.npmjs.org/package/open-git-page)
 
 Installation
 ------------

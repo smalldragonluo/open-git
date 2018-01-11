@@ -1,5 +1,5 @@
 {
-  "name": "open-git",
+  "name": "open-git-page",
   "version": "1.0.0",
   "description": "Open the web page of a git repository",
   "main": "./openg",
