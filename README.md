@@ -9,7 +9,7 @@ open-git-page
 Installation
 ------------
 
-    npm install -g open-git
+    npm install -g open-git-page
 
 Usage
 -----
